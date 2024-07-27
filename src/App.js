@@ -1,8 +1,5 @@
-// src/App.js
-import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Auth from './components/Auth';
-import Details from './pages/Details';
+import logo from './logo.svg';
+import './App.css';
 
 const App = () => {
   return (
